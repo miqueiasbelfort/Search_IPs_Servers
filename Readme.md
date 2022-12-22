@@ -1,4 +1,4 @@
-# Um projeto de lina de comando com GO
+# Um projeto de linha de comando com GO
 * Projeto foi feito no curso de de GoLang na Udemy
 * Com o projeto você pode ver os IPs dos sites da internet e os Servidores em que estão hospedados.
 
